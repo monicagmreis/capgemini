@@ -1,5 +1,7 @@
 # capgemini
-Academia Capgemini
+
+# Resumo do projeto
+Projeto em andamento, Academia Capgemini
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
@@ -18,6 +20,13 @@ Academia Capgemini
 ## 🛠️ Abrir e rodar o projeto
 
 **Apresente as instruções necessárias para abrir e executar o projeto**
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``InteliJ IDEA``
+- ``Maven``
+- ``JUnit``
 
 ## Autor
 
