@@ -1,17 +1,17 @@
 # capgemini
 
 # Resumo do projeto
-Projeto em andamento, Academia Capgemini
+Academia Capgemini 2022
 
-<h4 align="center"> 
+<h4 align="left"> 
     :construction:  Projeto em construção  :construction:
 </h4>
 
 ## :hammer: Funcionalidades do projeto
 
-- `Questão 1`: descrição da funcionalidade 1
-- `Questão 2`: descrição da funcionalidade 2
-- `Questão 3`: descrição da funcionalidade 3
+- `Questão 1`: Escada
+- `Questão 2`: Senha
+- `Questão 3`: Anagramas
 
 ## 📁 Acesso ao projeto
 
