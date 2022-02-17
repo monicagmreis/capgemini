@@ -15,7 +15,7 @@ Projeto em andamento, Academia Capgemini
 
 ## 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
 
 ## 🛠️ Abrir e rodar o projeto
 
@@ -28,7 +28,5 @@ Projeto em andamento, Academia Capgemini
 - ``Maven``
 - ``JUnit``
 
-## Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/84407215?v=4" width=115><br><sub>Mônica Reis</sub>](https://github.com/monicagmreis) |  
-| :---: | :---: | :---: |
+## Desenvolvedora
+[<img src="https://avatars.githubusercontent.com/u/84407215?v=4" width=115><br><sub>Mônica Reis</sub>](https://github.com/monicagmreis) 
