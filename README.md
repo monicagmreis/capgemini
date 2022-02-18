@@ -14,20 +14,16 @@ Academia Capgemini 2022 - Desafio de  Programação
 - `Questão 2Extra`: Implementei essa nova questao, para deixar mais claro, quais os tipos de caracteres que faltam, para deixar a senha segura
 - `Questão 3`: Anagramas
 
-- [x] Teste Questão 1 - Questao1Tes
-- [x] Teste Questão 2 - ValidadorSenhaTest
-- [ ] Teste Questão 3
 
 ## 📁 Acesso
 
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/monicagmreis/capgemini/tree/main/src).
 
-## 🛠️ Abrir e rodar o projeto
 
 ### Pré-requisitos
 
-JDK 16.0.1
-Maven 4.0.0
+- JDK 16.0.1
+- Maven 4.0.0
 
 ### 🎲 Como rodar a aplicação
 
@@ -49,6 +45,9 @@ $ java -cp target/Capgemini-1.0.jar questao2.Questao2
 
 # Para rodar a Questão 2, com melhorias
 $ java -cp target/Capgemini-1.0.jar questao2.Questao2Extra
+
+# Para rodar a Questão 3
+$ java -cp target/Capgemini-1.0.jar questao3.Questao3
 
 # Para rodar todos os Testes Unitários
 $ mvn test
