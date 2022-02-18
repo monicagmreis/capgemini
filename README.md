@@ -4,7 +4,7 @@
 Academia Capgemini 2022 - Desafio de  Programação
 
 <h4 align="left"> 
-    :construction:  Projeto em construção  :construction:
+    ✔  Projeto Pronto Para Entrega ✔
 </h4>
 
 ## :hammer: Features
