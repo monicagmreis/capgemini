@@ -1,21 +1,11 @@
+package questao1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*
-     *
-    **
-   ***
-  ****
- *****
-******
- */
-
 public class Questao1 {
     public static void main(String[] args) throws IOException {
-
-        //como ter certeza que recebi um numero inteiro?
-        //verificar negativo???
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         Integer n = 0;
@@ -41,7 +31,6 @@ public class Questao1 {
             concatenaEspaco(n-i, buffer);
             concatenaAsterisco(i, buffer);
             if (i < n) buffer.append("\n");
-//            buffer.append(System.getProperty("line.separator"));
         }
         return buffer.toString();
     }

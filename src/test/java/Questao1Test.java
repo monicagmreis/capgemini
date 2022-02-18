@@ -1,5 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
+import questao1.Questao1;
 
 public class Questao1Test {
 
